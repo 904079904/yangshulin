@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\nfcard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\copy.png",
+        "source": "E:\\nfcard1\\app\\src\\main\\res\\drawable-xhdpi\\copy.png"
+    },
+    {
+        "merged": "E:\\nfcard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nfcard.png",
+        "source": "E:\\nfcard1\\app\\src\\main\\res\\drawable-xhdpi\\nfcard.png"
+    },
+    {
+        "merged": "E:\\nfcard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\share.png",
+        "source": "E:\\nfcard1\\app\\src\\main\\res\\drawable-xhdpi\\share.png"
+    },
+    {
+        "merged": "E:\\nfcard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back.png",
+        "source": "E:\\nfcard1\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\nfcard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\reset.png",
+        "source": "E:\\nfcard1\\app\\src\\main\\res\\drawable-xhdpi\\reset.png"
+    }
+]

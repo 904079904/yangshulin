@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\nfcard1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "E:\\nfcard1\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\nfcard1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "E:\\nfcard1\\app\\src\\main\\res\\anim\\fade_out.xml"
+    }
+]
